@@ -1,6 +1,6 @@
 :root {
-    --primary: #;
-    --secondary: #;
+    --primary: palegoldenrod;
+    --secondary: palegreen;
 }
 
 * {
@@ -15,4 +15,13 @@ body {
 
 main {
     padding-top: 70px;
+}
+
+
+.container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }

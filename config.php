@@ -3,7 +3,7 @@
 class Config
 {
     const SERVEUR = "localhost";
-    const BDD = "";
+    const BDD = "atelier_bts";
     const UTILISATEUR = "root";
     const MOTDEPASSE = "";
 }
